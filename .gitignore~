@@ -1,5 +1,11 @@
 *.pyc
+*.py~
+.gitignore~
 
 build/
 dist/
 UNKNOWN.egg-info/
+
+wsgi/db.sqlite3
+
+

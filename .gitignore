@@ -1,4 +1,11 @@
 *.pyc
+*.py[co]
+*.sw[po]
+*~
+*.log
+*.egg-info
+venv/
+virtenv/
 
 build/
 dist/
